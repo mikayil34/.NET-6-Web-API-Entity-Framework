@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\NET-6-Web-API-Entity-Framework.props" />
-</Project>
